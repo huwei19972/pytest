@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="feeff81d-6c34-4355-8593-5d824a09f046" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="feeff81d-6c34-4355-8593-5d824a09f046" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -212,12 +209,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593251111710</updated>
-      <workItem from="1593251114743" duration="3954000" />
+      <workItem from="1593251114743" duration="4202000" />
     </task>
+    <task id="LOCAL-00001" summary="提交2">
+      <created>1593313163787</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593313163787</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3954000" />
+    <option name="totallyTimeSpent" value="4202000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -231,8 +236,8 @@
       <window_info anchor="right" id="Maven Projects" order="2" weight="0.32995737" />
       <window_info anchor="bottom" id="Database Changes" order="4" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="8" weight="0.32824427" />
-      <window_info anchor="bottom" id="Version Control" order="5" weight="0.3293348" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.3293348" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="5" visible="true" weight="0.3293348" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.3293348" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Designer" order="0" />
       <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.2521322" />
@@ -296,6 +301,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="提交2" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
