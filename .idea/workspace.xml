@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="feeff81d-6c34-4355-8593-5d824a09f046" name="Default" comment="Initial commit&#10;&#10;(cherry picked from commit 1e8eaa1)" />
+    <list default="true" id="feeff81d-6c34-4355-8593-5d824a09f046" name="Default" comment="Initial commit&#10;&#10;(cherry picked from commit 1e8eaa1)">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <list id="af2e6fef-6386-461a-99b1-6b7ed74315d5" name="Initial commit" comment="Initial commit&#10;&#10;(cherry picked from commit 1e8eaa1)">
       <changelist_data name="huwei19972" email="47588783+huwei19972@users.noreply.github.com" date="1593311246000" />
     </list>
@@ -103,6 +105,11 @@
             <path>
               <item name="pyDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="pyDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pyDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="demo01" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -212,7 +219,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593251111710</updated>
-      <workItem from="1593251114743" duration="5163000" />
+      <workItem from="1593251114743" duration="6659000" />
     </task>
     <task id="LOCAL-00001" summary="提交2">
       <created>1593313163787</created>
@@ -232,7 +239,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5163000" />
+    <option name="totallyTimeSpent" value="6659000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -354,6 +361,9 @@
           <caret line="1067" selection-start-line="1067" selection-end-line="1067" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/demo01/HelloWord.py">
       <provider selected="true" editor-type-id="text-editor">
