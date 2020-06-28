@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="feeff81d-6c34-4355-8593-5d824a09f046" name="Default" comment="" />
+    <list default="true" id="feeff81d-6c34-4355-8593-5d824a09f046" name="Default" comment="Initial commit&#10;&#10;(cherry picked from commit 1e8eaa1)" />
+    <list id="af2e6fef-6386-461a-99b1-6b7ed74315d5" name="Initial commit" comment="Initial commit&#10;&#10;(cherry picked from commit 1e8eaa1)">
+      <changelist_data name="huwei19972" email="47588783+huwei19972@users.noreply.github.com" date="1593311246000" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -41,6 +44,11 @@
     </leaf>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="huwei19972 &lt;47588783+huwei19972@users.noreply.github.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -95,11 +103,6 @@
             <path>
               <item name="pyDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="pyDemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pyDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pyDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="demo01" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -209,7 +212,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593251111710</updated>
-      <workItem from="1593251114743" duration="4202000" />
+      <workItem from="1593251114743" duration="5163000" />
     </task>
     <task id="LOCAL-00001" summary="提交2">
       <created>1593313163787</created>
@@ -218,14 +221,22 @@
       <option name="project" value="LOCAL" />
       <updated>1593313163787</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial commit&#10;&#10;(cherry picked from commit 1e8eaa1)">
+      <created>1593313322509</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1593313322509</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4202000" />
+    <option name="totallyTimeSpent" value="5163000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="bottom" id="TODO" order="12" />
@@ -236,11 +247,11 @@
       <window_info anchor="right" id="Maven Projects" order="2" weight="0.32995737" />
       <window_info anchor="bottom" id="Database Changes" order="4" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="8" weight="0.32824427" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="5" visible="true" weight="0.3293348" />
+      <window_info anchor="bottom" id="Version Control" order="5" weight="0.3293348" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.3293348" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Designer" order="0" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.2521322" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.2521322" />
       <window_info anchor="right" id="Database" order="3" weight="0.32995737" />
       <window_info anchor="right" id="SciView" weight="0.32995737" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
@@ -304,7 +315,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="提交2" />
-    <option name="LAST_COMMIT_MESSAGE" value="提交2" />
+    <MESSAGE value="Initial commit&#10;&#10;(cherry picked from commit 1e8eaa1)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit&#10;&#10;(cherry picked from commit 1e8eaa1)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
